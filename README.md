@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I'm currently student of Computer Science & Engineering at Lovely Professional University<br><br>🤝 I’m looking to collaborate on<br>Open source projects, ML models, data driven applications, and student led tech ideas.<br><br>🆘 I’m looking for help with<br>Scaling ML models, choosing the right algorithms, and deployment best practices.<br><br>🌱 I’m currently learning<br>Machine Learning, Deep Learning, NLP, TensorFlow, and backend integration for ML apps.<br><br>💬 Ask me about<br>Python, ML basics, SQL queries, college projects, and building things from scratch.<br><br>⚡ Fun fact<br>I learn best by breaking things and fixing them.
+🛠 I'm currently student of Computer Science & Engineering at Lovely Professional University<br><br>🤝 I’m looking to collaborate on<br>  Open source projects, ML models, data driven applications, and student led tech ideas.<br><br>🆘 I’m looking for help with<br>Scaling ML models, choosing the right algorithms, and deployment best practices.<br><br>🌱 I’m currently learning<br>Machine Learning, Deep Learning, NLP, TensorFlow, and backend integration for ML apps.<br><br>💬 Ask me about<br>Python, ML basics, SQL queries, college projects, and building things from scratch.<br><br>⚡ Fun fact<br>I learn best by breaking things and fixing them.
 
 
 ## 🌐 Socials:
